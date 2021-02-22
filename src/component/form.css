@@ -1,0 +1,61 @@
+.fromWraper {
+    width: 420px;
+    height: 628px;
+    border: 1px solid rgb(245, 239, 239);
+}
+h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(201, 195, 195);
+}
+.form {
+    border-top: 1px solid rgb(245,239,239);
+    color: black;
+    font-size: 15px;
+    padding: 30px;
+}
+.cardNumber {
+    display: flex;
+}
+.cardNumbers {
+    display: flex;
+    height: 20px;
+    width: 360px;
+}
+.expridateWraper {
+    display: -webkit-inline-box;
+    flex: 1;
+    justify-content: space-between;
+    
+}
+.expirDateTitle{
+    margin-left: -66px;
+}
+.cvvTitle {
+    display: flex;
+    padding-left: 22px;
+}
+
+.cvv {
+    height: 20px;
+    width: 50px;
+    margin-left: 30px;
+    left: 0;
+} 
+.ownTitle {
+    display: flex;
+}
+
+.cradOwn {
+    display: flex;
+    height: 20px;
+    width: 360px;
+}
+.btn {
+    border: 1px solid chartreuse;
+    margin-top: 30px;
+    background-color: chartreuse;
+    height: 30px;
+    width: 360px;
+    border-radius: 3px;
+}
